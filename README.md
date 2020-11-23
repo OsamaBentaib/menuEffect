@@ -1,10 +1,14 @@
-# Getting Started with Create React App
+# Css Menu Effect
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+The demo for the project available at [Demo](https://menueffect.beosama.com/).
 
 ## Available Scripts
 
 In the project directory, you can run:
+### `yarn install`
+
+Install the neccesery depandencies, react, react-dom, sass
 
 ### `yarn start`
 
