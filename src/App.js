@@ -13,7 +13,7 @@ function App() {
           <p className="frame__info">Project by Oussama Bentaib</p>
         </div>
         <div className="frame__links">
-          <a href="https://github.com/OsamaBentaib/menuEffect/">GitHub</a>
+          <a href="https://github.com/OsamaBentaib/menuEffect">GitHub</a>
         </div>
       </div>
       <nav className="menu">
